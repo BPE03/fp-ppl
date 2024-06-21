@@ -1,0 +1,7 @@
+build
+dist
+/media
+.DS_Store
+.env
+node_modules
+fp-ppl-ionic
