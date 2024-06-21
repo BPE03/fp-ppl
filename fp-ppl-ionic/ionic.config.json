@@ -1,0 +1,7 @@
+{
+  "name": "fp-ppl-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
